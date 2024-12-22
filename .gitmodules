@@ -1,0 +1,7 @@
+[submodule "MusicPlayerLite"]
+	path = MusicPlayerLite
+	url = https://github.com/trungphongdev/MusicPlayerLite.git
+
+[submodule "WindMovieApp"]
+	path = WindMovieApp
+	url = https://github.com/trungphongdev/WindMovieApp.git
